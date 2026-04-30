@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Autenticación_Interfaces/Autenticación_Interfaces.csproj" />
   <Project Path="Plataforma_Educativa/Plataforma_Educativa.csproj" />
 </Solution>
